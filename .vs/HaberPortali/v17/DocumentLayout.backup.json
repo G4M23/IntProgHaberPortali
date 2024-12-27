@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Gamzenur Y\u0131lmaz Haber Portal\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCE7DE-70E8-4F07-B6CA-F85FA50CEE2B}|WebU\u0131\\WebU\u0131.csproj|c:\\users\\pc\\desktop\\gamzenur y\u0131lmaz haber portal\u0131\\webu\u0131\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDCCE7DE-70E8-4F07-B6CA-F85FA50CEE2B}|WebU\u0131\\WebU\u0131.csproj|solutionrelative:webu\u0131\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCE7DE-70E8-4F07-B6CA-F85FA50CEE2B}|WebU\u0131\\WebU\u0131.csproj|c:\\users\\pc\\desktop\\gamzenur y\u0131lmaz haber portal\u0131\\webu\u0131\\webu\u0131.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDCCE7DE-70E8-4F07-B6CA-F85FA50CEE2B}|WebU\u0131\\WebU\u0131.csproj|solutionrelative:webu\u0131\\webu\u0131.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Gamzenur Y\u0131lmaz Haber Portal\u0131\\WebU\u0131\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebU\u0131\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Gamzenur Y\u0131lmaz Haber Portal\u0131\\WebU\u0131\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "WebU\u0131\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T15:54:44.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebU\u0131",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Gamzenur Y\u0131lmaz Haber Portal\u0131\\WebU\u0131\\WebU\u0131.csproj",
+              "RelativeDocumentMoniker": "WebU\u0131\\WebU\u0131.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\Gamzenur Y\u0131lmaz Haber Portal\u0131\\WebU\u0131\\WebU\u0131.csproj",
+              "RelativeToolTip": "WebU\u0131\\WebU\u0131.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T15:52:45.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
